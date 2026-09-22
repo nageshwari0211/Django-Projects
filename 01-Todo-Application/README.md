@@ -16,9 +16,11 @@ A simple and beautiful Todo app built with Django.
 ### How to Run
 ```bash
 pip install django
-python manage.py makemigrations<img width="751" height="620" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/878072bb-6265-4812-ae90-88ce64d38a95" />
-<img width="633" height="627" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/3c5e1aab-eeec-4fbd-8095-0681946ee286" />
-<img width="671" height="631" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/9b79d812-c847-4e0a-9dff-35f868bdd8f3" />
-
+python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
+```
+###Screenshots
+<img width="751" height="620" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/878072bb-6265-4812-ae90-88ce64d38a95" />
+<img width="633" height="627" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/3c5e1aab-eeec-4fbd-8095-0681946ee286" />
+<img width="671" height="631" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/9b79d812-c847-4e0a-9dff-35f868bdd8f3" />
