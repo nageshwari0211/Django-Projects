@@ -1,4 +1,4 @@
-# 02 - Blog Application
+# 02 - Blog Application  ✅
 
 A simple Django Blog Application where users can create, read, update and delete blog posts.
 
