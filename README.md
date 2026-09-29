@@ -8,6 +8,7 @@ This repository contains my Django learning journey and projects.
 | No | Project Name | Description | Link |
 |----|--------------|-------------|------|
 | 01 | Todo Application | User Authentication + CRUD Todo App | [View Project](./01-Todo-Application/) |
+| 02 | Blog Application | User Authentication + CRUD Todo App | [View Project](./02-Blog-Application/) |
 
 ### 🛠️ Tech Stack
 - Python
@@ -18,8 +19,8 @@ This repository contains my Django learning journey and projects.
 
 ### 🎯 Learning Goals
 - [x] 01 - Todo Application Completed ✅
-- [ ] 02 - Blog Application (Next)
-- [ ] 03 - E-commerce
+- [x ] 02 - Blog Application  ✅
+- [ ] 03 - E-commerce (next)
 - [ ] 04 - Portfolio Website
 
 ### How to Run Any Project
