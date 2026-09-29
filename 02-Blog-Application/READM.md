@@ -14,12 +14,12 @@ A simple Django Blog Application where users can create, read, update and delete
 * View All Posts
 
 ### How to Run
-
+```
 pip install django
 python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
-
+```
 ### Screenshots
 <img width="1158" height="451" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/df2c73f1-8537-4fef-9f3f-bec30d2fc0a2" />
 <img width="1366" height="625" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/05c02310-f28d-402c-a017-0fa327d960a0" />
