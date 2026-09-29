@@ -14,6 +14,7 @@ A simple Django Blog Application where users can create, read, update and delete
 * View All Posts
 
 ### How to Run
+
 pip install django
 python manage.py makemigrations
 python manage.py migrate
